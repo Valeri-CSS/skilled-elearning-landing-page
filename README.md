@@ -42,7 +42,7 @@ Solution URL : https://github.com/Valeri-CSS/skilled-elearning-landing-page-9
 
 ### Build with
 
-Semantic HTML5 markup
+- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
