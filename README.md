@@ -32,7 +32,7 @@ Desktop
 ![Desktop Screenshot](https://user-images.githubusercontent.com/116646278/234180193-bc660551-4f85-462c-a75f-dd23d643eb38.PNG)
 
 
-Tablet                     Mobile
+Tablet and Mobile
 
 ![Tablet Screenshot](https://user-images.githubusercontent.com/116646278/234180505-b9270766-58e8-40d2-a932-2a699a6aa3ba.PNG)
 ![Mobile Screenshot](https://user-images.githubusercontent.com/116646278/234181679-97010d7d-ef19-4895-91d7-202c7cb90341.PNG)
@@ -41,6 +41,25 @@ Tablet                     Mobile
 
 Solution URL : https://github.com/Valeri-CSS/skilled-elearning-landing-page-9
 
-My site is live at : https://valeri-css.github.io/skilled-elearning-landing-page-9/
 
 ### Build with
+
+Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+### What I learned
+
+I learned how to style some of elemets together, olso in this project I learnd how to use grid and it is very helpful, and I learned how to write README
+
+###Author
+
+-Frontend Mentor: Valeri Beridze 
+- GitHub : Valeri-CSS
+
+
+
+
+
