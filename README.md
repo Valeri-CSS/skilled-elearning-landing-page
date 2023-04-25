@@ -39,6 +39,8 @@ Tablet and Mobile
 
 Solution URL : https://github.com/Valeri-CSS/skilled-elearning-landing-page-9
 
+Live Site URL : https://valeri-css.github.io/skilled-elearning-landing-page-9/
+
 
 ### Build with
 
