@@ -54,7 +54,7 @@ Semantic HTML5 markup
 
 I learned how to style some of elemets together, olso in this project I learnd how to use grid and it is very helpful, and I learned how to write README
 
- ###Author
+### Author
 
 - Frontend Mentor: Valeri Beridze 
 - GitHub : Valeri-CSS
