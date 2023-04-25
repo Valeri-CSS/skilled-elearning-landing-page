@@ -43,7 +43,6 @@ Mobile
 ### Links
 
 Solution URL : https://github.com/Valeri-CSS/skilled-elearning-landing-page-9
-
 My site is live at : https://valeri-css.github.io/skilled-elearning-landing-page-9/
 
 ### Build with
