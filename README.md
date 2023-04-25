@@ -24,9 +24,9 @@ Users should be able to:
 - See hover states for interactive elements
 
 
-### Screenshot
+### Screenshots
 
-Desktop 
+####Desktop  
 
 ![Desktop Screenshot](https://user-images.githubusercontent.com/116646278/234180193-bc660551-4f85-462c-a75f-dd23d643eb38.PNG)
 
