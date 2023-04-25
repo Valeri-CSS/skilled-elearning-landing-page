@@ -23,3 +23,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+
+### Screenshot
+
+Desktop 
+
+![Desktop Screenshot](https://user-images.githubusercontent.com/116646278/234180193-bc660551-4f85-462c-a75f-dd23d643eb38.PNG)
+
